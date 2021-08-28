@@ -38,6 +38,9 @@ The wave of retiring employees will leave 90,398 positions vacant. There are cur
 
 ![mentorship_titles](https://user-images.githubusercontent.com/86164867/131226890-e3b01976-4b48-4e1a-a4da-751855aa29b0.PNG)
 
+All departments will have a high ratio of retiring employees to mentorship eligible employees.  Of the departments that reported having both retirement eligible and mentorship eligibile employees Engineer is the worst at 49 to 1 while Assistant Engineer is the best with a 42 to 1 ratio. The complete list of ratios by department can be found below:
+
+![mentorship_ratios](https://user-images.githubusercontent.com/86164867/131227968-51452335-0cf5-4f2b-a349-5a79ad3bae0a.PNG)
 
 
 
