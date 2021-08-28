@@ -20,6 +20,7 @@ A list of employees born in 1965 (the age deemed eligible to enter the mentorshi
 
 ##### 1.
 The departments that will lose the most employees are Senior Engineers, Senior Staff, and Engineers.
+
 ![results_1_PH](https://user-images.githubusercontent.com/86164867/131202901-ffef538f-0e7a-4b9b-893d-0c5ccfa94d61.PNG)
 
 ##### 2.
