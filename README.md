@@ -33,5 +33,10 @@ Of the 300,024 current Pewlett Hackard employees 90,398 are eligibile for retire
 
 ### Summary
 
+The wave of retiring employees will leave 90,398 positions vacant. There are currently only 1,940 mentorship eligible employess, so far to few to mentor the next generation of employees at an acceptable ration of mentor to mentee. The mentorship eligible staff by department is listed below:
+![mentorship_titles](https://user-images.githubusercontent.com/86164867/131226890-e3b01976-4b48-4e1a-a4da-751855aa29b0.PNG)
+
+
+
 
  
